@@ -1,3 +1,4 @@
+<img width="487" height="410" alt="Screenshot 2026-04-22 at 12 41 22 PM" src="https://github.com/user-attachments/assets/81c5a953-0617-4aae-9fc1-f67b94cb7f5a" />
 here is my project on hackclub: https://stasis.hackclub.com/dashboard/projects/cmo9e9mtq00a201pa579waksz
 
 This is just for fun as i am just a high school student ttrying to learn about gps
